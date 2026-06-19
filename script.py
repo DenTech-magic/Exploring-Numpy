@@ -2,7 +2,7 @@ import numpy as np
 
 # Load the raw numbers directly from the CSV column into a 1-Dimensional NumPy array
 # This skips the header text row and isolates the raw numeric temperature column
-temperatures = np.loadtxt('time_series_data.csv', delimiter=',', skiprows=1, usecols=2)
+temperatures = np.loadtxt('/home/astrotuk/D/data_02/cleaned_time_series_data.csv', delimiter=',', skiprows=1, usecols=2)
 
 # Check the total count of elements inside the array
 total_readings = temperatures.size
