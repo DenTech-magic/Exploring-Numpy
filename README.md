@@ -28,18 +28,18 @@ Total Dataset Count: 366
 Array Dimensions: (366,)
 
 --- Summary Statistics ---
-Maximum Temperature: 39.54 °C
-Minimum Temperature: 11.23 °C
-Average Temperature: 25.12 °C
-Median Temperature: 24.98 °C
-Standard Deviation: 5.43
+Maximum Temperature: 44.26 °C
+Minimum Temperature: 8.79 °C
+Average Temperature: 25.04 °C
+Median Temperature: 25.26 °C
+Standard Deviation: 4.73
 
 --- Conditional Threshold Analysis ---
-Number of Days Exceeding 30°C: 62 days
-First 5 Index Locations of Hot Days: [ 3  6 14 22 23]
-First 5 Actual Values of Hot Days: [32.62 32.9  30.45 31.18 34.21]
+Number of Days Exceeding 30°C: 46 days
+First 5 Index Locations of Hot Days: [ 3  6 20 31 47]
+First 5 Actual Values of Hot Days: [32.62 32.9  32.33 34.26 30.29]
 
 --- Vector Transformation & Sequential Samples ---
 First 3 Elements Converted to Fahrenheit: [81.47 75.76 82.83]
-First 3 Day-to-Day Sequential Shifts: [-3.18  3.93  4.38]
-Maximum Single-Day Positive Temperature Jump: 8.74 °C
+First 3 Day-to-Day Sequential Shifts: [-3.17  3.93  4.38]
+Maximum Single-Day Positive Temperature Jump: 17.21 °C
